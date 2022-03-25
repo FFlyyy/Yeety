@@ -76,4 +76,4 @@ async def botservers(ctx):
     await ctx.send(f"I'm in {len(bot.guilds)} servers!")
             
   
-bot.run("TOKEN")
+bot.run("OTU0MTE1NDUyOTkxMzE1OTk5.YjObQg.XEAw-gj8W6ezyTyUtQ981XQJzDI")
